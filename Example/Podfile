@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PEActivityIndicator_Example' do
+  pod 'PEActivityIndicator', :path => '../'
+
+  target 'PEActivityIndicator_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

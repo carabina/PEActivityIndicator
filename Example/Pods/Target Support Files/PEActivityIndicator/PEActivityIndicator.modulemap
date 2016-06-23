@@ -1,0 +1,6 @@
+framework module PEActivityIndicator {
+  umbrella header "PEActivityIndicator-umbrella.h"
+
+  export *
+  module * { export * }
+}

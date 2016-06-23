@@ -1,0 +1,16 @@
+PODS:
+  - PEActivityIndicator (0.1.0)
+
+DEPENDENCIES:
+  - PEActivityIndicator (from `../`)
+
+EXTERNAL SOURCES:
+  PEActivityIndicator:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PEActivityIndicator: e4814fcaff9a1b219b34be11003aacef1c40d536
+
+PODFILE CHECKSUM: e9b71c208492302d5bab67707b9d6c5c554c5c2d
+
+COCOAPODS: 1.0.0

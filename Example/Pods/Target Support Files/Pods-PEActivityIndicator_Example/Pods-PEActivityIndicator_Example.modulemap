@@ -1,0 +1,6 @@
+framework module Pods_PEActivityIndicator_Example {
+  umbrella header "Pods-PEActivityIndicator_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
